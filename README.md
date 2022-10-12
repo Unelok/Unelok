@@ -1,8 +1,7 @@
 ![](https://github.com/Unelok/Unelok/blob/main/star-wars-obi-wan-kenobi.gif)
 
 <p align="center">
-  ![](https://github.com/Unelok/Unelok/blob/main/star-wars-obi-wan-kenobi.gif)
-  <!--<img width="460" height="300" src="https://github.com/Unelok/Unelok/blob/main/star-wars-obi-wan-kenobi.gif">-->
+  <img width="498" height="227" src="https://github.com/Unelok/Unelok/blob/main/star-wars-obi-wan-kenobi.gif">
 </p>
 <!--
 **Unelok/Unelok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
