@@ -1,5 +1,3 @@
-![](https://github.com/Unelok/Unelok/blob/main/star-wars-obi-wan-kenobi.gif)
-
 <p align="center">
   <img width="498" height="227" src="https://github.com/Unelok/Unelok/blob/main/star-wars-obi-wan-kenobi.gif">
 </p>
